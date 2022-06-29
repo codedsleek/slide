@@ -179,7 +179,7 @@ aside.slideLeft .sign-in-block {
   display: none;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 767px) {
   html {
     font-size: 12px;
   }
